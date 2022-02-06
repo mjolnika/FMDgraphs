@@ -1,3 +1,3 @@
 # FMDgraphs
 
-[3-50] (https://mjolnika.github.io/FMDgraphs/3-50)
+[окно 3, количество 50] (/3-50)
